@@ -1,15 +1,9 @@
-<<<<<<< Updated upstream
-# svm07.github.io
-=======
 # svm07.github.io
 <!DOCTYPE html>
 <html>
-<head>
-Srikala Munukutla's Personal Website
-</head>
 <body>
 <h1>Hello World</h1>
+<p>I'm hosted with GitHub Pages.</p>
 </body>
 </html>
 
->>>>>>> Stashed changes
