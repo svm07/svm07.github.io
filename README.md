@@ -1,4 +1,3 @@
-# svm07.github.io
 <!DOCTYPE html>
 <html>
 <body>
